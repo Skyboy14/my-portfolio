@@ -12,7 +12,7 @@
     "imageSrc": "projects/WarehouseListing.png",
     "description": "The Warehouse Listing App is a React-based web application for managing and listing warehouses.",
     "skills": ["React", "Redux", "styled-components"],
-    "demo": "https://warehouse-listing-app.vercel.app/",
+    "demo": "https://github.com/Skyboy14/warehouse-listing-app",
     "source": "https://warehouse-listing-app.vercel.app/"
   },
   {
