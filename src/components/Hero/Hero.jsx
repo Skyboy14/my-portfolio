@@ -10,9 +10,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Akash</h1>
         <p className={styles.description}>
-          I'm a full-stack web developer with 2.5 years of experience using
-          Javascript, ReactJS, NodeJS and MongoDB. Reach out if you'd like to
-          learn more!
+          I am a full-stack web developer with 2.5 years of experience in
+          JavaScript, React.js, Node.js, and MongoDB.
+          <br /> Reach out if you'd like to learn more!
         </p>
         <div className={styles.buttonCover}>
           <a
