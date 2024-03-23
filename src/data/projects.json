@@ -12,13 +12,13 @@
     "imageSrc": "projects/WarehouseListing.png",
     "description": "The Warehouse Listing App is a React-based web application for managing and listing warehouses.",
     "skills": ["React", "Redux", "styled-components"],
-    "demo": "https://commercial-website-delta.vercel.app/",
+    "demo": "https://warehouse-listing-app.vercel.app/",
     "source": "https://warehouse-listing-app.vercel.app/"
   },
   {
     "title": "Issue Tracker",
     "imageSrc": "projects/issueTracker.png",
-    "description": "Issue Tracker is built using Node Js, Express, and Mongo DB to track project and its issues",
+    "description": "Issue Tracker is built using Node Js, Express, and Mongo DB to track project and its issues.",
     "skills": ["Node", "Express", "MongoDB"],
     "demo": "https://iussue-tracker.onrender.com/",
     "source": "https://github.com/Skyboy14/Iussue_Tracker"
