@@ -13,7 +13,7 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <a
-            href="mailto:myemail@email.com"
+            href="mailto:yadavakash224.ay@email.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,6 +55,7 @@ export const Contact = () => {
           </a>
         </li>
       </ul>
+      <h4>Created by Akash Yadav || 2024</h4>
     </footer>
   );
 };
