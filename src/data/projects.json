@@ -1,6 +1,6 @@
 [
   {
-    "title": "EmployeeReviewSystem",
+    "title": "Employee Review System",
     "imageSrc": "projects/ERS.png",
     "description": "An employee review system is a structured process organizations use to assess and evaluate employees' performance, skills, and contributions.",
     "skills": ["Node JS", "Express", "MongoDB"],
