@@ -1,0 +1,26 @@
+[
+  {
+    "title": "EmployeeReviewSystem",
+    "imageSrc": "projects/ERS.png",
+    "description": "An employee review system is a structured process organizations use to assess and evaluate employees' performance, skills, and contributions.",
+    "skills": ["Node JS", "Express", "MongoDB"],
+    "demo": "https://brainy-pike-sock.cyclic.app/users/sign-in",
+    "source": "https://github.com/Skyboy14/EmployeeReviewSystem"
+  },
+  {
+    "title": "Warehouse Listing App",
+    "imageSrc": "projects/WarehouseListing.png",
+    "description": "The Warehouse Listing App is a React-based web application for managing and listing warehouses.",
+    "skills": ["React", "Redux", "styled-components"],
+    "demo": "https://commercial-website-delta.vercel.app/",
+    "source": "https://warehouse-listing-app.vercel.app/"
+  },
+  {
+    "title": "Issue Tracker",
+    "imageSrc": "projects/issueTracker.png",
+    "description": "Issue Tracker is built using Node Js, Express, and Mongo DB to track project and its issues",
+    "skills": ["Node", "Express", "MongoDB"],
+    "demo": "https://iussue-tracker.onrender.com/",
+    "source": "https://github.com/Skyboy14/Iussue_Tracker"
+  }
+]

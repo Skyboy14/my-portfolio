@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Full Stack Web Developer",
+    "organisation": "Infosys",
+    "startDate": "Nov, 2021",
+    "endDate": "Present",
+    "experiences": [
+      "Implemented user-friendly UI using HTML, CSS, JavaScript, React JS, and Next Js.",
+      "Developed Express framework services using Node.js.",
+      "Designed Swagger 2.0 for services.",
+      "Conducted E2E testing.",
+      "Collaborated in an Agile environment.",
+      "Diagnosed and resolved technical issues on ServiceNow and ALM.",
+      "contributing to the team's overall growth."
+    ],
+    "imageSrc": "history/infosys.png"
+  }
+]
